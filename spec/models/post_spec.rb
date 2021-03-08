@@ -1,5 +1,4 @@
 require 'rails_help'
-
-describe Post do 
-  
+  describe Post do
+  end 
 end
